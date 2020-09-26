@@ -10,3 +10,7 @@ Watching Youtube as I type...
 ## Subheader 2
 
 Trying out another commit
+
+## Local Development
+
+1. Open index.html in your browser.
